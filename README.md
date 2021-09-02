@@ -33,5 +33,6 @@ sudo docker build -t tuttu_project .
 
 #### Create user in nexus with username and a password
 
-[Screenshot_20210902_114604](https://user-images.githubusercontent.com/56312182/131792284-1fd651e7-dddf-4170-8fd7-ea15516c3d72.png)
+![]![Screenshot_20210902_114604](https://user-images.githubusercontent.com/56312182/131792504-32249b81-36ad-45d1-9154-aaeb049a9e05.png)
+
 
