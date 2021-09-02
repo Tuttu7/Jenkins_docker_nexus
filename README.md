@@ -33,6 +33,6 @@ sudo docker build -t tuttu_project .
 
 #### Create user in nexus with username and a password
 
-![Screenshot_20210902_114604.png]
+![https://github.com/Tuttu7/Jenkins_docker_nexus/blob/3f34c1be47f6f82f2a295d26db04bdeae035b524/Screenshot_20210902_114604.png]
 
 
