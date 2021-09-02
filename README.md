@@ -73,7 +73,7 @@ sudo docker push localhost:8030/tuttu-repo-git/tuttu_project
 
 ![Screenshot_20210902_121143](https://user-images.githubusercontent.com/56312182/131795465-38435297-e0d9-497b-b38d-e580e1e3809b.png)
 
-#### The image will ne uploaded in nexus
+#### The image will be uploaded in nexus
 
 ![Screenshot_20210902_121504](https://user-images.githubusercontent.com/56312182/131795572-b43e9eff-2e36-4ea1-aa7a-03ec6a039fc9.png)
 
